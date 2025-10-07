@@ -16,7 +16,7 @@
 
 ---
 
-**Project:** aiims.app.surveylauncher (Android launcher) + Hoinoi + REACT
+**Project:** aiims.app.surveylauncher (Android launcher) + SVELTEKIT
 **Version:** 1.1 • **Date:** 2025-10-04
 
 ## 1. BMAD
